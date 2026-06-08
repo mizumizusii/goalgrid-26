@@ -1,0 +1,24 @@
+{
+  "name": "GOALGRID 26 - World Cup Companion",
+  "short_name": "GOALGRID 26",
+  "description": "FIFA World Cup 2026 schedule and match companion",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#08110e",
+  "theme_color": "#08110e",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
